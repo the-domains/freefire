@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[freefire ]]></title>
+        <description><![CDATA[freefire ]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Mar 2016 19:28:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Non artificial non intelligence]]></title>
+            <description><![CDATA[<article><h1>Non artificial non intelligence</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2cccc8175a2baef5124e2e34cd5dcd8a917df010.png"></article>]]></description>
+            <link>undefinednon-artificial-non-intelligence/index.html</link>
+            <guid isPermaLink="false">5b3d3e0d-83d8-4a45-a83b-b9310b11ed28</guid>
+            <pubDate>Fri, 04 Mar 2016 19:27:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
