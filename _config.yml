@@ -1,0 +1,14 @@
+layout_spectrum: 0.131369
+color:
+  saturation: 0.2752061
+  lightness: 0.1857572
+  brandStrength: 0.7975295
+  brandColors:
+    - '#000000'
+    - '#3A4044'
+    - '#1274A9'
+    - '#FFFFFF'
+    - '#878B8D'
+  rhythmicContrast: 0.9084042
+typography_spectrum: 1
+name: 'freefire '
